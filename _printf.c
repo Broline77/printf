@@ -48,4 +48,4 @@ int _printf(const char *format, ...)
 	}
 	return (char_num);
 	va_end(ap);
-}
+
