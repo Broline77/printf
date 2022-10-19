@@ -1,2 +1,2 @@
-ALX printf team project
+ALX printf team project.
 
